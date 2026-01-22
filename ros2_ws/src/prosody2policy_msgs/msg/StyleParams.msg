@@ -1,0 +1,7 @@
+builtin_interfaces/Time stamp
+float32 velocity_scale
+float32 accel_scale
+float32 approach_offset_m
+float32 stiffness_scale
+float32 grip_force_cap
+string mode

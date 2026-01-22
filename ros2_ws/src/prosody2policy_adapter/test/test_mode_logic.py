@@ -25,4 +25,4 @@ def test_params_mapping():
     v, a, off, stiff, grip = params_for_mode("urgent", sm)
     assert v > 1.0 and a > 1.0
     assert off >= 0.0
-    assert grip >= 0.0
+    assert 0.0 <= grip <= 1.0 or grip >= 0.0

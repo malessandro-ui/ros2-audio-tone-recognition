@@ -3,7 +3,7 @@
   <name>prosody2policy_tone</name>
   <version>0.1.0</version>
   <description>Streaming prosody (tone) publisher for ROS2.</description>
-  <maintainer email="you@example.com">sansan</maintainer>
+  <maintainer email="marcsylvestre100.com">sansan</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_python</buildtool_depend>

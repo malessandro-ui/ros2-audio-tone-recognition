@@ -3,7 +3,7 @@
   <name>prosody2policy_adapter</name>
   <version>0.1.0</version>
   <description>Maps ToneSignal to safe StyleParams with hysteresis and staleness handling.</description>
-  <maintainer email="you@example.com">sansan</maintainer>
+  <maintainer email="marcsylvestre100.com">sansan</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_python</buildtool_depend>

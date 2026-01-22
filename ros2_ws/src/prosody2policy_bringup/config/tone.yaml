@@ -1,0 +1,5 @@
+tone_stream_node:
+  ros__parameters:
+    topic: /tone/signal
+    rate_hz: 10.0
+    emb_dim: 64
